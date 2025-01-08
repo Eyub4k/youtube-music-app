@@ -59,7 +59,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou un
 ```
 MIT License
 
-Copyright (c) 2025 [Votre Nom]
+Copyright (c) 2025 [Eyub4k]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
